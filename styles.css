@@ -1,0 +1,81 @@
+.container{
+    border-radius: 10px;
+    margin: auto;
+    padding: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: 1px solid rgb(56, 56, 56); 
+    border-radius: 3%;
+    background-color: rgb(61, 61, 61);
+}
+
+#img{
+    width: 50px;
+    height: 50px; 
+    margin: auto;
+    display: flex; 
+    border: 1px solid ;
+    border-radius: 50%;
+    border-color: rgb(113, 111, 111);
+}
+
+.links p{
+    color: #fff;
+    text-align: center;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid grey; 
+    padding: 10px; 
+    margin: 5px; 
+    border-radius: 5px; 
+    background-color: rgb(113, 111, 111);
+}
+
+body {
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    height: 100vh; /* Make the body height equal to the viewport height */
+    margin: 0;
+    padding: 0;
+    background-color: rgb(36, 35, 35);
+}
+
+#name{
+    color:#fff;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+#place{
+    text-align: center;
+    color: yellowgreen;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#phrase{
+    text-align: center;
+    color: rgb(207, 203, 203);
+    font-size: smaller;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+a{
+    text-decoration: none;
+
+}
+.links p {
+    border: 1px solid grey;
+    padding: 10px;
+    width: 250px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: rgb(113, 111, 111);
+    transition: transform 0.3s; /* Add transition for smooth effect */
+}
+
+.links p:hover {
+    transform: scale(1.1); /* Magnify the element on hover */
+}

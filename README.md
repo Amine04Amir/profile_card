@@ -1,5 +1,1 @@
-<center>
-
-# Profile card
-
-</center>
+<img src="previw.png" alt="Screenshot">
