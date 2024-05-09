@@ -1,1 +1,5 @@
+<center>
+
 # Profile card
+
+</center>
