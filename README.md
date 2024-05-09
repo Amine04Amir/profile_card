@@ -1,1 +1,1 @@
-<strong><h1 style="text-align: center;">Profile card</h1></strong>
+<strong style="text-align: center;"><h1>Profile card</h1></strong>
